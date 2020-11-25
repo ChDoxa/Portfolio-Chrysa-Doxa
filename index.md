@@ -39,7 +39,7 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 
 ### Fourier Analysis FFT
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="?raw=true"/>
 <h4>Keywords:
 - Matlab </h4>
 
@@ -57,7 +57,7 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 
 
 ### Network Analysiss
- <https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_NetworkAnalysis2.jpg?raw=true"/>
+ <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_NetworkAnalysis2.jpg?raw=true"/>
 
 
 
