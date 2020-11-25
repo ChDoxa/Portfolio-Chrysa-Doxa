@@ -10,7 +10,7 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 - Big Data
 - Velocity vectors
 - Strain field </h4>
----
+
 
 ### Data Projects
 ---
@@ -18,28 +18,28 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 [NYC](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <h4>Keywords:
-- **Python** </h4>
+- Python</h4>
 
 ### House
 [House](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <h4>Keywords:
-- **Python** </h4>
+- Python </h4>
 ### Cancer
 [Cancer](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <h4>Keywords:
-- **Python** </h4>
+- Python </h4>
 ### Fourier Analysis FFT
 [Fourier Analysis FFT](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <h4>Keywords:
-- **Matlab** </h4>
+- Matlab </h4>
 
----
+
 
 ### GIS projects
-
+---
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
