@@ -15,23 +15,23 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 ### Data Projects
 ---
 #### NYC
-[NYC](/sample_page)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <h4>Keywords:
 - Python</h4>
 
 ### House
-[House](/pdf/sample_presentation.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <h4>Keywords:
 - Python </h4>
 ### Cancer
-[Cancer](http://example.com/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <h4>Keywords:
 - Python </h4>
 ### Fourier Analysis FFT
-[Fourier Analysis FFT](http://example.com/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <h4>Keywords:
 - Matlab </h4>
