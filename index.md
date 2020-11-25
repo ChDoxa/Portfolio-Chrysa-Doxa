@@ -39,7 +39,8 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 
 ### Fourier Analysis FFT
 
-<img src="?raw=true"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/%CE%93%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AE%20%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%20%CF%84%CF%89%CE%BD%20%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD%202.png?raw=true"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CE%B4%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CE%BC%CE%B1%202.png?raw=true"/>
 <h4>Keywords:
 - Matlab </h4>
 
@@ -48,7 +49,7 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 ---
 
 ### 3D Analysis
-<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_3Danalysis.png2?raw=true"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_3Danalysis2.png?raw=true"/>
 <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_3Danalysis(TIN)2.png?raw=true"/>
 
 
