@@ -48,24 +48,24 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 ---
 
 ### 3D Analysis
-<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_3Danalysis.png?raw=true"/>
-<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_3Danalysis(TIN).png?raw=true"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_3Danalysis.png2?raw=true"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_3Danalysis(TIN)2.png?raw=true"/>
 
 
 ### Digitization
-<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_digitization.png?raw=true"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_digitization2.png?raw=true"/>
 
 
 ### Network Analysiss
- <https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_NetworkAnalysis.jpg?raw=true"/>
+ <https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_NetworkAnalysis2.jpg?raw=true"/>
 
 
 
 ### Kinematic model
- <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_NetworkAnalysis.jpg?raw=true"/>
+ <img src="?raw=true"/>
 
 ### 3D Analysis
- <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_NetworkAnalysis.jpg?raw=true"/>
+ <img src="?raw=true"/>
 
 
 
