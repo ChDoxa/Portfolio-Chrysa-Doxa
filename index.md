@@ -19,8 +19,8 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 ### Auto MPG dataset
 
 <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/HISTS.png"/>
-<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/HISTS2.pdf"/>
-<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/rmse.pdf"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/categorical.png"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/rmse.png"/>
 <h5>Keywords:
 - Python
 - Data Science
