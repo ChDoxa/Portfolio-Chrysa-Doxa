@@ -18,9 +18,15 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 
 ### NYC
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/HISTS.pdf"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/HISTS2.pdf"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/rmse.pdf"/>
 <h5>Keywords:
-- Python</h5>
+- Python
+- Data Science
+- Exploratory Analysis and Visualizations
+- Linear Regression
+- Random Forest</h5>
 
 
 ### House
