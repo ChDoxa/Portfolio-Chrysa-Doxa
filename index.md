@@ -52,27 +52,7 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
  <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_NetworkAnalysis2.jpg?raw=true"/>
 
 
-
-### Kinematic model
- <img src="?raw=true"/>
-
-### 3D Analysis
- <img src="?raw=true"/>
-
-
-
-### GIS projects
----
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
 
 
-
-
----
 
