@@ -16,7 +16,7 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 ## Data Projects
 ---
 
-### NYC
+### Auto MPG dataset
 
 <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/HISTS.pdf"/>
 <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/HISTS2.pdf"/>
@@ -27,21 +27,6 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 - Exploratory Analysis and Visualizations
 - Linear Regression
 - Random Forest</h5>
-
-
-### House
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<h5>Keywords:
-- Python </h5>
-
-
-### Cancer
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<h5>Keywords:
-- Python </h5>
-
 
 ### Fourier Analysis FFT
 
