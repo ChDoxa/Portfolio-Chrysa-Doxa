@@ -1,16 +1,5 @@
-# Portfolio
+# PORTFOLIO
 
-
----
-## GPS puplication
----
-
-The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporary_Kinematics_of_South_Aegean.pdf) for the article, click [here](https://presentations.copernicus.org/EGU2020/EGU2020-7656_presentation.pdf) for the presentation) studies the kinematic characteristics of the southern Aegean crustal segments using geodetic data of 47 permanent GPS/GNSS stations distributed over the whole region.
-<h5>Keywords:
-- Time Series
-- Big Data
-- Velocity vectors
-- Strain field </h5>
 
 ---
 ## Data Projects
@@ -53,6 +42,17 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 
 
 ---
+
+---
+## GPS puplication
+---
+
+The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporary_Kinematics_of_South_Aegean.pdf) for the article, click [here](https://presentations.copernicus.org/EGU2020/EGU2020-7656_presentation.pdf) for the presentation) studies the kinematic characteristics of the southern Aegean crustal segments using geodetic data of 47 permanent GPS/GNSS stations distributed over the whole region.
+<h5>Keywords:
+- Time Series
+- Big Data
+- Velocity vectors
+- Strain field </h5>
 
 
 
