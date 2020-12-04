@@ -22,7 +22,9 @@
 <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/FFT.png?raw=true"/>
 
 <h5>Keywords:
-- Matlab </h5>
+- Matlab
+- Fast Fourier Transform
+- Signal Processing</h5>
 
 ---
 ## GIS projects
