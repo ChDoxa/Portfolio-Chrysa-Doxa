@@ -17,7 +17,7 @@
 - Linear Regression
 - Random Forest</h5>
 
-click [here](https://github.com/ChDoxa/DS_cars/commits?author=ChDoxa) for the code 
+click [here](https://github.com/ChDoxa/DS_cars) for the code 
 
 ### Fourier Analysis FFT
 
