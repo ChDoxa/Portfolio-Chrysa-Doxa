@@ -30,7 +30,7 @@ The puplication (click [here](http://users.uoa.gr/~atzanis/Abstracts/Contemporar
 
 ### Fourier Analysis FFT
 
-<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/fft2.jpg"/>
+<img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/FFT.png"/>
 
 <h5>Keywords:
 - Matlab </h5>
