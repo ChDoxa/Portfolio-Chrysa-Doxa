@@ -41,7 +41,7 @@ click [here](https://github.com/ChDoxa/DS_cars) for the code
 <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_digitization2.png?raw=true"/>
 
 
-### Network Analysiss
+### Network Analysis
  <img src="https://github.com/ChDoxa/Portfolio-Chrysa-Doxa/blob/master/images/pf_NetworkAnalysis2.jpg?raw=true"/>
 
 
